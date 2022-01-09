@@ -12,12 +12,14 @@ To provide necessary feedback to Louise which will help her set a realistic goal
 
 This analysis considered multiples factors to support the stakeholder’s decision. Campaign outcomes based on launch date, goals, category, subcategory and Descriptive statistics (Mean, Median, Standard Deviation, Upper Quartile, Lower quartile and IQR of Goal and Pledged). Conditional formatting, CountIF, Pivot table were used during the analysis.
 
-![](Resources\Parentcategory_outcomes.png)
-Music, Theater and Film & Video are top 3 successful parent categories
+![](https://github.com/aem-saidur-rahman/kickstarteranalysis/blob/master/Resources/Parentcategory_outcomes.png)
 
-![](Resources\Subcategory_outcome.png)
+                             Music,Theater and Film & Video are top 3 successful parent categories.
+                    
 
-Plays is the most successful subcategory by far.
+![](https://github.com/aem-saidur-rahman/kickstarteranalysis/blob/master/Resources/Subcategory_outcome.png)
+
+                             Plays is the most successful subcategory by far.
 
 
 
@@ -36,16 +38,17 @@ One challenge with the dataset was lack of recent data, since 2017 a lot has cha
 
 ### **Analysis of Outcomes Based on Launch Date**
 
-![image](Resources\Theater_Outcomes_vs_Launch..png)
+![image](https://github.com/aem-saidur-rahman/kickstarteranalysis/blob/master/Resources/Theater_Outcomes_vs_Launch..png)
+                                Theater Outcomes based on launch date showed some months have higher success rate than others.
 
-Theater Outcome based on Launch Date showed some months have higher success rate than others.
 
 ### **Analysis of Outcomes Based on Goals**
 
 
 
 
-![image](Resources\Outcomes_vs_Goals.png)
+![image](https://github.com/aem-saidur-rahman/kickstarteranalysis/blob/master/Resources/Outcomes_vs_Goals.png)
+
 
 Goals below 5000$ has over 70% success rate
 
